@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Middle Earth</name>
+	<Style id="khStyle793">
+		<IconStyle id="khIconStyle794">
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default">
+	</Style>
+	<Style id="khStyle731">
+		<IconStyle id="khIconStyle732">
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+				<gx:x>224</gx:x>
+				<x>224</x>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="khStyle690">
+		<IconStyle id="khIconStyle691">
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/arrow.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="default0">
+	</Style>
+	<Style id="default1">
+	</Style>
+	<Folder>
+		<name>Google Middle Earth.kmz</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>-15.45867617177506</longitude>
+			<latitude>47.55058869289347</latitude>
+			<altitude>0</altitude>
+			<heading>-8.329809914626997e-16</heading>
+			<tilt>4.357619371221663e-15</tilt>
+			<range>6108330.514446316</range>
+		</LookAt>
+		<Placemark>
+			<name>Umbar</name>
+			<LookAt>
+				<longitude>9.63899969049576</longitude>
+				<latitude>38.58133217784203</latitude>
+				<altitude>0</altitude>
+				<heading>3.804745096581956</heading>
+				<tilt>0</tilt>
+				<range>450990.1139565365</range>
+			</LookAt>
+			<styleUrl>#default1</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>9.557956991748242,38.05170810039446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khazad-Dum</name>
+			<LookAt>
+				<longitude>6.000067054679187</longitude>
+				<latitude>49.74081032111766</latitude>
+				<altitude>0</altitude>
+				<heading>1.171974360691164</heading>
+				<tilt>0</tilt>
+				<range>214867.2209389603</range>
+			</LookAt>
+			<styleUrl>#khStyle731</styleUrl>
+			<Point>
+				<coordinates>5.426529129330717,49.86451531477816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edoras</name>
+			<LookAt>
+				<longitude>7.041350799200031</longitude>
+				<latitude>45.22537041835303</latitude>
+				<altitude>0</altitude>
+				<heading>-2.62160233720085</heading>
+				<tilt>9.82234387244663e-15</tilt>
+				<range>188120.9520770155</range>
+			</LookAt>
+			<styleUrl>#khStyle731</styleUrl>
+			<Point>
+				<coordinates>6.981652924378097,45.25491791433324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tharbad</name>
+			<LookAt id="khLookAt739">
+				<longitude>1.50978606684925</longitude>
+				<latitude>49.80862537427352</latitude>
+				<altitude>0</altitude>
+				<heading>-2.370066130180768</heading>
+				<tilt>0</tilt>
+				<range>400371.6290930446</range>
+			</LookAt>
+			<styleUrl>#khStyle793</styleUrl>
+			<Point id="khPoint740">
+				<coordinates>1.916995559651767,49.46967339106237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Angrenost</name>
+			<LookAt id="khLookAt727">
+				<longitude>4.680654015273725</longitude>
+				<latitude>47.05049749964653</latitude>
+				<altitude>0</altitude>
+				<heading>0.02956069655874711</heading>
+				<tilt>0</tilt>
+				<range>44123.59678560683</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Style id="khStyle728">
+				<IconStyle id="khIconStyle729">
+					<Icon>
+						<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point id="khPoint735">
+				<coordinates>4.633928442664825,46.99733320954067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minas Ithil</name>
+			<LookAt>
+				<longitude>12.24760244540786</longitude>
+				<latitude>43.97353604723593</latitude>
+				<altitude>0</altitude>
+				<heading>1.082100469646635</heading>
+				<tilt>0</tilt>
+				<range>394525.7924324554</range>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>12.46107357635654,44.02038499360779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mount Doom</name>
+			<LookAt>
+				<longitude>13.6051888540844</longitude>
+				<latitude>44.37539448900655</latitude>
+				<altitude>0</altitude>
+				<heading>2.018037122353901</heading>
+				<tilt>0</tilt>
+				<range>395360.8747199496</range>
+			</LookAt>
+			<styleUrl>#khStyle731</styleUrl>
+			<Point>
+				<coordinates>13.90636653183304,44.40633662381655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Erebor</name>
+			<LookAt>
+				<longitude>13.73820004877069</longitude>
+				<latitude>53.24435763827134</latitude>
+				<altitude>0</altitude>
+				<heading>7.108004359189096</heading>
+				<tilt>0</tilt>
+				<range>191695.1507084824</range>
+			</LookAt>
+			<styleUrl>#khStyle731</styleUrl>
+			<Point>
+				<coordinates>13.80480722924432,53.37787504639594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rivendell</name>
+			<LookAt>
+				<longitude>6.154897806664379</longitude>
+				<latitude>52.1913029988873</latitude>
+				<altitude>0</altitude>
+				<heading>1.246124733157843</heading>
+				<tilt>0</tilt>
+				<range>454826.5305126156</range>
+			</LookAt>
+			<styleUrl>#khStyle731</styleUrl>
+			<Point>
+				<coordinates>5.562504120202107,52.0570341791001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Shire</name>
+			<LookAt id="khLookAt813">
+				<longitude>-1.379804330266587</longitude>
+				<latitude>52.790031247332</latitude>
+				<altitude>0</altitude>
+				<heading>-4.686198525546329</heading>
+				<tilt>0</tilt>
+				<range>423430.866106973</range>
+			</LookAt>
+			<styleUrl>#khStyle731</styleUrl>
+			<Point id="khPoint814">
+				<coordinates>-1.481959434707449,52.27704434173302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bree</name>
+			<LookAt>
+				<longitude>0.5690396292551295</longitude>
+				<latitude>52.34564045570137</latitude>
+				<altitude>0</altitude>
+				<heading>-3.155851099196325</heading>
+				<tilt>0</tilt>
+				<range>423694.9194756771</range>
+			</LookAt>
+			<styleUrl>#khStyle690</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+						<gx:x>224</gx:x>
+						<x>224</x>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>0.5993222463221031,51.95305168363875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Minas Anor</name>
+			<LookAt id="khLookAt842">
+				<longitude>11.45504349311481</longitude>
+				<latitude>44.28558219520026</latitude>
+				<altitude>0</altitude>
+				<heading>3.19736206850612</heading>
+				<tilt>0</tilt>
+				<range>274202.2663068215</range>
+			</LookAt>
+			<styleUrl>#default0</styleUrl>
+			<Style>
+				<IconStyle>
+					<Icon>
+						<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/crosshair.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point id="khPoint843">
+				<coordinates>11.2636853451657,43.92301487651373,0</coordinates>
+			</Point>
+		</Placemark>
+		<GroundOverlay>
+			<name>Numenor Overlay</name>
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/Numenor.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox id="khLatLonBox689">
+				<north>25.15934728142277</north>
+				<south>16.02640610073955</south>
+				<east>-40.47397514598293</east>
+				<west>-50.23031449531266</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay id="khGroundOverlay694">
+			<name>LOTR Map</name>
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/middleearth.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox id="khLatLonBox696">
+				<north>59.87390740898783</north>
+				<south>31.97339109241243</south>
+				<east>23.48112598962679</east>
+				<west>-9.61277202967325</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay id="khGroundOverlay694">
+			<name>The 3rd Age</name>
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/North-western_middle-earth2.JPG</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<visibility>0</visibility>
+			<LatLonBox id="khLatLonBox696">
+                			<north>66.08669379345476</north>
+				<south>34.01476708747661</south>
+				<east>26.94977266543714</east>
+				<west>-11.96743005537584</west>
+			</LatLonBox>
+		</GroundOverlay>
+
+		<GroundOverlay>
+			<name>Isengard</name>
+			<Icon>
+				<href>https://storage.googleapis.com/mrpiercey/LOTR%20Map/Isengard.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>47.38146207993882</north>
+				<south>46.91389046763604</south>
+				<east>4.961047143212255</east>
+				<west>4.285454476529064</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Document>
+</kml>
